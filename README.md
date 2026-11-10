@@ -8,8 +8,6 @@
 [![X](https://srv-cdn.himpfen.io/badges/twitter/twitter-flat.svg)](https://x.com/ListsAwesome) 
 [![Facebook](https://srv-cdn.himpfen.io/badges/facebook-pages/facebook-pages-flat.svg)](https://www.facebook.com/awesomelists)
 
-📌 This repository is archived with Zenodo and can be cited using the DOI above.
-
 > A curated list of resources for soil health assessment, environmental sensor networks, pedometrics, microclimate logging, and ecological monitoring systems.
 
 Continuous monitoring of soil conditions and surrounding environmental parameters enables data-driven land stewardship, carbon sequestration verification, and early detection of ecological degradation. This list is intended for environmental scientists, pedometricians, agronomists, IoT engineers, and ecological researchers.
